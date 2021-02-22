@@ -1,3 +1,3 @@
 # Advent of Code
 
-Advent of Code solutions :smile:
+Advent of Code solutions :santa:
